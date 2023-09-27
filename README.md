@@ -37,4 +37,11 @@ and determination make me a promising candidate for any development team.
 
 </div>
 
+## Ranking ✨
+
+<p align="center">
+<a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=swetamishra123&show_icons=true&theme=default" /></a>
+</p>
+
+
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
