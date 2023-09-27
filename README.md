@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Add your profile image or banner here -->
+![Welcome to My Profile](https://media.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif)
 
-<!--
-**swetamishra123/swetamishra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sweta's Profile README
 
-Here are some ideas to get you started:
+## Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic foundation. Equipped with hands-on experience in software development through projects. While I may not have specific industry experience yet, my enthusiasm and determination make me a promising candidate for any development team.
+
+📧 **Email:** swetamishra603@gmail.com
+🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)
+📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)
+
+## Technical Skills
+
+🚀 **Programming languages:** C, C++, Python, JavaScript
+💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel ![Coding GIF](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+
+📊 **Data Management:** MySQL, MongoDB, MS Access
+🖥️ **Platforms:** Windows 10, Linux
+🛠️ **Frameworks:** Tailwind, Bootstrap
+🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
+
+Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
