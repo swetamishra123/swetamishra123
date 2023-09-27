@@ -9,7 +9,7 @@
 foundation. Equipped with hands-on experience in software development through<br>
 projects. While I may not have specific industry experience yet, my enthusiasm<br>
 and determination make me a promising candidate for any development team.
-<div align="center">
+<div align="right">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 60%; height: 40%;">
 </div>
 
