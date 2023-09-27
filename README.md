@@ -10,17 +10,17 @@
 
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic foundation. Equipped with hands-on experience in software development through projects. While I may not have specific industry experience yet, my enthusiasm and determination make me a promising candidate for any development team.
 
-📧 **Email:** swetamishra603@gmail.com <br></br>
+📧 **Email:** swetamishra603@gmail.com <br>
 🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/) <br> 
 📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)<br> </br>
 
 ## Technical Skills
 
-🚀 **Programming languages:** C, C++, Python, JavaScript <br> </br>
-💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel <br> </br>
-📊 **Data Management:** MySQL, MongoDB, MS Access<br> </br>
-🖥️ **Platforms:** Windows 10, Linux<br> </br>
-🛠️ **Frameworks:** Tailwind, Bootstrap<br> </br>
-🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.<br> </br>
+🚀 **Programming languages:** C, C++, Python, JavaScript <br> 
+💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel <br> 
+📊 **Data Management:** MySQL, MongoDB, MS Access<br> 
+🖥️ **Platforms:** Windows 10, Linux<br> 
+🛠️ **Frameworks:** Tailwind, Bootstrap<br> 
+🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.<br> 
 
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
