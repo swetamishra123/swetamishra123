@@ -16,11 +16,10 @@ and determination make me a promising candidate for any development team.
 -->
 
 ## Contact Me
-📧 **Email:** swetamishra603@gmail.com<br>
-🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)<br>
-📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SWETAMI73590398)
-
+[![Email](https://img.shields.io/badge/Email-swetamishra603%40gmail.com-red)](mailto:swetamishra603@gmail.com)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sweta%20Mishra-blue)](https://www.linkedin.com/in/sweta-mishra-9947041b0/)<br>
+[![Instagram](https://img.shields.io/badge/Instagram-swetamishra__18-orange)](https://www.instagram.com/swetamishra_18/)<br>
+[![Twitter](https://img.shields.io/badge/Twitter-SWETAMI73590398-blue)](https://twitter.com/SWETAMI73590398)
 
 ## Technical Skills
 
