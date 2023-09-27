@@ -5,16 +5,16 @@
 ## Summary
 
 
-👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic<br>
-foundation. Equipped with hands-on experience in software development through<br>
-projects. While I may not have specific industry experience yet, my enthusiasm<br>
+👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic
+foundation. Equipped with hands-on experience in software development through
+projects. While I may not have specific industry experience yet, my enthusiasm
 and determination make me a promising candidate for any development team.
 <!--<div align="right">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 60%; height: 40%;">
 </div>
 -->
 
-
+##Contact Me
 📧 **Email:** swetamishra603@gmail.com<br>
 🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)<br>
 📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)
