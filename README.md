@@ -1,5 +1,7 @@
 # Sweta's Profile README
-![Download GIF](https://github.com/swetamishra123/swetamishra123/raw/main/download.gif)
+<div align="center">
+  <img src="https://github.com/swetamishra123/swetamishra123/raw/main/download.gif" alt="Download GIF">
+</div>
 
 
 
