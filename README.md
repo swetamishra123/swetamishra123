@@ -47,4 +47,28 @@ and determination make me a promising candidate for any development team.
 <a align="center"><img width="auto" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swetamishra123&theme=default" /></a>
 </p>
 
+---
+ ## Connect with me🤝
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
+<p>
+  <a href="swetamishar603@gmail.com">
+    <img align="left" alt=" | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  </a>
+  <a href="https://twitter.com/takinekotfs">
+    <img align="left" alt="Tsuki Takineko | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+  </a>
+  
+   <a href="https://github.com/takinekotfs">
+    <img align="left" alt="Tsuki Takineko| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+   <a href="https://www.instagram.com/takinekotfs/">
+    <img align="left" alt="Tsuki Takineko | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
+
+  <a>
+      <br><img align="left" alt="Tsuki Takineko| Github" width="26px" src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" />
+      systakineko#2897
+  </a>
+</p>
+
+<p align="right" > Created with 💕 by <a href="https://github.com/takinekotfs"> @takinekotfs </a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=takinekotfs&label=Profile%20views&color=0e75b6&style=flat" alt="takinekotfs" /> </p>
