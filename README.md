@@ -16,11 +16,11 @@
 
 ## Technical Skills
 
-🚀 **Programming languages:** C, C++, Python, JavaScript
-💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel 
-📊 **Data Management:** MySQL, MongoDB, MS Access
-🖥️ **Platforms:** Windows 10, Linux
-🛠️ **Frameworks:** Tailwind, Bootstrap
-🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
+🚀 **Programming languages:** C, C++, Python, JavaScript <br> </br>
+💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel <br> </br>
+📊 **Data Management:** MySQL, MongoDB, MS Access<br> </br>
+🖥️ **Platforms:** Windows 10, Linux<br> </br>
+🛠️ **Frameworks:** Tailwind, Bootstrap<br> </br>
+🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.<br> </br>
 
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
