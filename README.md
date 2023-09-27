@@ -2,9 +2,11 @@
   <img src="https://github.com/swetamishra123/swetamishra123/raw/main/download.gif" alt="Download GIF">
 </div>
 
-
-
 ## Summary
+
+<div align="right">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF">
+</div>
 
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic<br>
 foundation. Equipped with hands-on experience in software development through<br>
