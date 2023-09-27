@@ -52,4 +52,20 @@ and determination make me a promising candidate for any development team.
 
  ## Connect with me🤝
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
+<p>
+  <a href="mailto:swetamishra603@gmail.com">
+    <img align="left" alt="Email" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/sweta-mishra-9947041b0/">
+    <img align="left" alt="LinkedIn" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+  </a>
+  <a href="https://www.instagram.com/swetamishra_18/">
+    <img align="left" alt="Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
+  </a>
+  <a href="https://twitter.com/SWETAMI73590398">
+    <img align="left" alt="Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
+  </a>
+</p>
 
+<p align="right">Created with 💕 by Sweta Mishra</p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=swetamishra123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
