@@ -19,6 +19,8 @@ and determination make me a promising candidate for any development team.
 📧 **Email:** swetamishra603@gmail.com<br>
 🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)<br>
 📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SWETAMI73590398)
+
 
 ## Technical Skills
 
