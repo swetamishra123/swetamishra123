@@ -4,9 +4,6 @@
 
 ## Summary
 
-<div align="right">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF">
-</div>
 
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic<br>
 foundation. Equipped with hands-on experience in software development through<br>
@@ -27,3 +24,6 @@ and determination make me a promising candidate for any development team.
 🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
 
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
+<div align="center">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF">
+</div>
