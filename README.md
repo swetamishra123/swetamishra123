@@ -25,5 +25,5 @@ and determination make me a promising candidate for any development team.
 
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
 <div align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 20%; height: 30%;">
 </div>
