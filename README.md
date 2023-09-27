@@ -1,4 +1,4 @@
-<div style="background-image: url(https://media.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif); background-size: cover; background-repeat: no-repeat; height: 100vh;">
+<div style="background-image: url(https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false); background-size: cover; background-repeat: no-repeat; height: 100vh;">
     <!-- Add your profile image or banner here -->
     <img src="YOUR_IMAGE_URL" alt="Your Profile Image" width="200" height="200" style="border-radius: 50%;">
 </div>
