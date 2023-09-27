@@ -38,7 +38,7 @@ and determination make me a promising candidate for any development team.
 <a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=swetamishra123&show_icons=true&theme=default" /></a>
 </p>
 
----
+
 
 ## Contribution Statics 🪪
 
@@ -49,7 +49,7 @@ and determination make me a promising candidate for any development team.
 <a align="center"><img width="auto" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swetamishra123&theme=default" /></a>
 </p>
 
----
+
  ## Connect with me🤝
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
 
