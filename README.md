@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/swetamishra123/swetamishra123/raw/main/download.gif" alt="Download GIF" style="width: 100%; height: auto;">
 </div>
-
+---
 ## Summary
 
 
