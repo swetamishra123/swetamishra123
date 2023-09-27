@@ -30,4 +30,7 @@ and determination make me a promising candidate for any development team.
 🛠️ **Frameworks:** Tailwind, Bootstrap<br>
 🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swetamishra123)](https://git.io/streak-stats)
+
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
