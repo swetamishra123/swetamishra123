@@ -66,6 +66,6 @@ Feel free to connect with me via email or on LinkedIn and Instagram. Let's colla
     <img align="left" alt="Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
   </a>
 </p>
-<br>
+<br></br>
 <p align="right">Created with 💕 by Sweta Mishra</p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=swetamishra123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
