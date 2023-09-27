@@ -1,4 +1,4 @@
-![Banner Image](https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Banner Image]([https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1655512977&psig=AOvVaw1tMPjW80gRTMbSZAf9RjaE&ust=1695920934957000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID1zPijy4EDFQAAAAAdAAAAABAv))
 
 # Sweta's Profile README
 
