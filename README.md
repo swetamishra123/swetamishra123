@@ -1,5 +1,8 @@
-<!-- Add your profile image or banner here -->
-![Welcome to My Profile](https://media.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif)
+<!-- Navbar with background image -->
+<div style="background-image: url(https://media.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif); background-size: cover; background-repeat: no-repeat; height: 100vh;">
+    <!-- Add your profile image or banner here -->
+    <!-- You can add your profile image or any content you want -->
+</div>
 
 # Sweta's Profile README
 
