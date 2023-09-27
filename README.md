@@ -2,14 +2,14 @@
   <img src="https://github.com/swetamishra123/swetamishra123/raw/main/download.gif" alt="Download GIF">
 </div>
 
----
-
-
+# Sweta's Profile README
 
 ## Summary
-<p align="right">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF" width="200">
+
+<p align="left">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw1YBdhCj8YrKxAJMkxLHEuQ&ust=1695922225839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjNmeCoy4EDFQAAAAAdAAAAABAg" alt="Programming GIF" width="200">
 </p>
+
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with <br>
 a strong academic foundation. Equipped with hands-on experience in software <br>
 development through projects. While I may not have specific industry experience<br>
