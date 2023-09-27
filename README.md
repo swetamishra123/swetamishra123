@@ -1,16 +1,18 @@
-![Download GIF](https://github.com/swetamishra123/swetamishra123/raw/main/download.gif)
+<div align="center">
+  <img src="https://github.com/swetamishra123/swetamishra123/raw/main/download.gif" alt="Download GIF">
+</div>
 
 # Sweta's Profile README
 
 ## Summary
 
-👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic <br>
-foundation. Equipped with hands-on experience in software development through projects.br>
-While I may not have specific industry experience yet, my enthusiasm and determination<br>
-make me a promising candidate for any development team.
+👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic<br>
+foundation. Equipped with hands-on experience in software development through<br>
+projects. While I may not have specific industry experience yet, my enthusiasm<br>
+and determination make me a promising candidate for any development team.
 
-📧 **Email:** swetamishra603@gmail.com
-🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)
+📧 **Email:** swetamishra603@gmail.com<br>
+🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)<br>
 📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)
 
 ## Technical Skills
