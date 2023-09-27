@@ -10,9 +10,9 @@
 
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic foundation. Equipped with hands-on experience in software development through projects. While I may not have specific industry experience yet, my enthusiasm and determination make me a promising candidate for any development team.
 
-📧 **Email:** swetamishra603@gmail.com
-🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)
-📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)
+📧 **Email:** swetamishra603@gmail.com <br></br>
+🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/) <br> </br>
+📷 **Instagram:** [swetamishra_18](https://www.instagram.com/swetamishra_18/)<br> </br>
 
 ## Technical Skills
 
