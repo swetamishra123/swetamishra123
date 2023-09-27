@@ -1,9 +1,10 @@
-# Sweta's Profile README
 <div align="center">
   <img src="https://github.com/swetamishra123/swetamishra123/raw/main/download.gif" alt="Download GIF">
 </div>
 
+---
 
+# Sweta's Profile README
 
 ## Summary
 
