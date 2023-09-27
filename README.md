@@ -7,11 +7,11 @@
 
 
 ## Summary
-
+<p align="right">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw1YBdhCj8YrKxAJMkxLHEuQ&ust=1695922225839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjNmeCoy4EDFQAAAAAdAAAAABAg" alt="Programming GIF" width="200">
+</p>
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with <br>
-a strong academic foundation. Equipped with hands-on experience in software development through projects. <br> <div style="float: right; margin: 0px 0px 15px 15px">
-  ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw1YBdhCj8YrKxAJMkxLHEuQ&ust=1695922225839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjNmeCoy4EDFQAAAAAdAAAAABAg)
-</div>
+a strong academic foundation. Equipped with hands-on experience in software development through projects. <br> 
 While I may not have specific industry experience yet, my enthusiasm<br>  and determination make me a promising candidate for any development team.
 
 📧 **Email:** swetamishra603@gmail.com <br>
