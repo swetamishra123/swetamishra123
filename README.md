@@ -1,7 +1,6 @@
-<!-- Navbar with background image -->
+
 <div style="background-image: url(https://media.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif); background-size: cover; background-repeat: no-repeat; height: 100vh;">
-    <!-- Add your profile image or banner here -->
-    <!-- You can add your profile image or any content you want -->
+   
 </div>
 
 # Sweta's Profile README
@@ -17,8 +16,7 @@
 ## Technical Skills
 
 🚀 **Programming languages:** C, C++, Python, JavaScript
-💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel ![Coding GIF](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
-
+💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel 
 📊 **Data Management:** MySQL, MongoDB, MS Access
 🖥️ **Platforms:** Windows 10, Linux
 🛠️ **Frameworks:** Tailwind, Bootstrap
