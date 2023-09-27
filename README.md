@@ -1,6 +1,6 @@
-
 <div style="background-image: url(https://media.tenor.com/oXXYhHPgcHwAAAAC/welcome-to-my-profile-welcome.gif); background-size: cover; background-repeat: no-repeat; height: 100vh;">
-   
+    <!-- Add your profile image or banner here -->
+    <img src="YOUR_IMAGE_URL" alt="Your Profile Image" width="200" height="200" style="border-radius: 50%;">
 </div>
 
 # Sweta's Profile README
