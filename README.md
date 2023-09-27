@@ -9,6 +9,10 @@
 foundation. Equipped with hands-on experience in software development through<br>
 projects. While I may not have specific industry experience yet, my enthusiasm<br>
 and determination make me a promising candidate for any development team.
+<div align="center">
+  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 60%; height: 40%;">
+</div>
+
 
 📧 **Email:** swetamishra603@gmail.com<br>
 🔗 **LinkedIn:** [Sweta Mishra](https://www.linkedin.com/in/sweta-mishra-9947041b0/)<br>
@@ -24,6 +28,3 @@ and determination make me a promising candidate for any development team.
 🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
 
 Feel free to connect with me via email or on LinkedIn and Instagram. Let's collaborate and build amazing projects together! 🚀
-<div align="center">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 20%; height: 30%;">
-</div>
