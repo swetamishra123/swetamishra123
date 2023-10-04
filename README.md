@@ -28,9 +28,18 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 
 ### Coding Profiles
 
-[![LeetCode](https://commons.wikimedia.org/wiki/File:LeetCode_Logo_1.png)](https://leetcode.com/swetamishra/)
-[![GeeksforGeeks](https://imgur.com/example-geeksforgeeks-icon.png)](https://auth.geeksforgeeks.org/user/swetamishra603/?)
-[![HackerRank](https://imgur.com/example-hackerrank-icon.png)](https://www.hackerrank.com/swetamishra603)
+<p align="left">
+  <a href="https://leetcode.com/swetamishra/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="26px">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/swetamishra603/">
+    <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="GeeksforGeeks" width="26px">
+  </a>
+  <a href="https://www.hackerrank.com/swetamishra603">
+    <img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" alt="HackerRank" width="26px">
+  </a>
+</p>
+
 
 
 
