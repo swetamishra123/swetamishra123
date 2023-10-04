@@ -36,7 +36,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcliBiD_hXE9CbruPQDrK5gCjhV8TuBk8ZhfbYUvt8JSMujLV&s" alt="GeeksforGeeks" width="26px">
   </a>
   <a href="https://www.hackerrank.com/swetamishra603">
-    <img src="[https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZBduuJIkMZtBIe2RHqa_LqklfGRuCE1xFampnmp_9nEPUrN5&s)" alt="HackerRank" width="26px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi39JA41BVr02f1NGGzUtXtgBNGNa8KVEZbmb_NFsRifVeo2U&s" alt="HackerRank" width="26px">
   </a>
 </p>
 
