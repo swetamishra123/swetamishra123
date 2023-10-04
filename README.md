@@ -30,13 +30,13 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 
 <p align="left">
   <a href="https://leetcode.com/swetamishra/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="LeetCode" width="26px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp75oVvxuvCrfFLetIOUGhYpz9xMnaQ3u52m-MamRLZbRxujvD&s" alt="LeetCode" width="26px">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/swetamishra603/">
-    <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="GeeksforGeeks" width="26px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcliBiD_hXE9CbruPQDrK5gCjhV8TuBk8ZhfbYUvt8JSMujLV&s" alt="GeeksforGeeks" width="26px">
   </a>
   <a href="https://www.hackerrank.com/swetamishra603">
-    <img src="https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg" alt="HackerRank" width="26px">
+    <img src="[https://www.vectorlogo.zone/logos/hackerrank/hackerrank-icon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyZBduuJIkMZtBIe2RHqa_LqklfGRuCE1xFampnmp_9nEPUrN5&s)" alt="HackerRank" width="26px">
   </a>
 </p>
 
