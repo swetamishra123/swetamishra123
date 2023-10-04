@@ -30,13 +30,13 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 
 <p align="left">
   <a href="https://leetcode.com/swetamishra/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp75oVvxuvCrfFLetIOUGhYpz9xMnaQ3u52m-MamRLZbRxujvD&s" alt="LeetCode" width="26px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp75oVvxuvCrfFLetIOUGhYpz9xMnaQ3u52m-MamRLZbRxujvD&s" alt="LeetCode" width="50px" >
   </a>
   <a href="https://auth.geeksforgeeks.org/user/swetamishra603/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcliBiD_hXE9CbruPQDrK5gCjhV8TuBk8ZhfbYUvt8JSMujLV&s" alt="GeeksforGeeks" width="26px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcliBiD_hXE9CbruPQDrK5gCjhV8TuBk8ZhfbYUvt8JSMujLV&s" alt="GeeksforGeeks" width="50px">
   </a>
   <a href="https://www.hackerrank.com/swetamishra603">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi39JA41BVr02f1NGGzUtXtgBNGNa8KVEZbmb_NFsRifVeo2U&s" alt="HackerRank" width="26px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi39JA41BVr02f1NGGzUtXtgBNGNa8KVEZbmb_NFsRifVeo2U&s" alt="HackerRank" width="50px">
   </a>
 </p>
 
