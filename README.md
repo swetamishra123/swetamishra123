@@ -30,7 +30,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 
 <p align="left">
   <a href="https://leetcode.com/swetamishra/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQ0WTMDHtyTkDCkmLtvWTI88yuHwgJTUKQ1sl1laOAXl5qX7x&s" alt="LeetCode" width="50px" height="80px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQ0WTMDHtyTkDCkmLtvWTI88yuHwgJTUKQ1sl1laOAXl5qX7x&s" alt="LeetCode" width="80px" height="50px">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/swetamishra603/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBcliBiD_hXE9CbruPQDrK5gCjhV8TuBk8ZhfbYUvt8JSMujLV&s" alt="GeeksforGeeks" width="80px" height="50px">
