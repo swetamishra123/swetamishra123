@@ -9,8 +9,7 @@
 
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic
 foundation. Equipped with hands-on experience in software development through
-projects. While I may not have specific industry experience yet, my enthusiasm
-and determination make me a promising candidate for any development team.
+projects. My enthusiasm and determination make me a promising candidate for any development team.
 <!--<div align="right">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 60%; height: 40%;">
 </div>
@@ -29,7 +28,7 @@ and determination make me a promising candidate for any development team.
 
 ### Coding Profiles
 
-[![LeetCode]([https://imgur.com/example-leetcode-icon.png](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png))](https://leetcode.com/swetamishra/)
+[![LeetCode](https://commons.wikimedia.org/wiki/File:LeetCode_Logo_1.png)](https://leetcode.com/swetamishra/)
 [![GeeksforGeeks](https://imgur.com/example-geeksforgeeks-icon.png)](https://auth.geeksforgeeks.org/user/swetamishra603/?)
 [![HackerRank](https://imgur.com/example-hackerrank-icon.png)](https://www.hackerrank.com/swetamishra603)
 
