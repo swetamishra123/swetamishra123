@@ -26,6 +26,15 @@ and determination make me a promising candidate for any development team.
 🛠️ **Frameworks:** Tailwind, Bootstrap<br>
 🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
 
+
+### Coding Profiles
+
+[![LeetCode]([https://imgur.com/example-leetcode-icon.png](https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png))](https://leetcode.com/swetamishra/)
+[![GeeksforGeeks](https://imgur.com/example-geeksforgeeks-icon.png)](https://auth.geeksforgeeks.org/user/swetamishra603/?)
+[![HackerRank](https://imgur.com/example-hackerrank-icon.png)](https://www.hackerrank.com/swetamishra603)
+
+
+
 ## Achievments
 <div align="center">
   
