@@ -10,10 +10,7 @@
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic
 foundation. Equipped with hands-on experience in software development through
 projects. My enthusiasm and determination make me a promising candidate for any development team.
-<!--<div align="right">
-  <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="Programming GIF"  style="width: 60%; height: 40%;">
-</div>
--->
+
 
 
 ## Technical Skills
