@@ -49,7 +49,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 ## Ranking ✨
 
 <p align="center">
-<a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=swetamishra123&show_icons=true&theme=default" /></a>
+<a align="center"><img width="700" height="auto" src="https://github-readme-stats.vercel.app/api?username=swetamishra123" /></a>
 </p>
 
 
