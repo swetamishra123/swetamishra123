@@ -87,4 +87,5 @@ Feel free to connect with me via email or on LinkedIn and Instagram. Let's colla
 </p>
 <br></br>
 <p align="right">Created with 💕 Sweta Mishra</p>
+<p align="left" > Visitor's count <img src="https://media4.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif?cid=ecf05e47x5muoglxq2k5i6uskhn6s7moqcs8e0x3xxbw7jl2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> <
 <p align="right"><img src="https://komarev.com/ghpvc/?username=swetamishra123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
