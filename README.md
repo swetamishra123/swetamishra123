@@ -86,5 +86,5 @@ Feel free to connect with me via email or on LinkedIn and Instagram. Let's colla
   </a>
 </p>
 <br></br>
-<p align="right">Created with 💕 by Sweta Mishra</p>
+<p align="right">Created with 💕 Sweta Mishra</p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=swetamishra123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
