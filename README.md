@@ -43,8 +43,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 ## Achievments
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=swetamishra123&theme=solarized-light&border_radius=4.9)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=swetamishra123&theme=deuteranopia-friendly-theme&border_radius=4.9)](https://git.io/streak-stats)
 
 </div>
 
