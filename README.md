@@ -3,8 +3,8 @@
 </div>
 
 <hr style="border: 1px solid #ddd;">
-## Summary
 
+## Summary
 
 👩‍🎓 Highly motivated and detail-oriented Computer Science undergraduate with a strong academic
 foundation. Equipped with hands-on experience in software development through
