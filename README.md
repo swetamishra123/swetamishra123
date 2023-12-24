@@ -19,7 +19,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 📊 **Data Management:** MySQL, MongoDB, MS Access<br>
 🖥️ **Platforms:** Windows 10, Linux<br>
 🛠️ **Frameworks:** Tailwind, Bootstrap<br>
-🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios.
+🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Maven, Puppet, Nagios,Ansible.
 
 
 ### Coding Profiles
