@@ -18,7 +18,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel <br>
 📊 **Data Management:** MySQL, MongoDB, MS Access<br>
 🖥️ **Platforms:** Windows 10, Linux<br>
-🛠️ **Frameworks:** Tailwind, Bootstrap<br>
+🛠️ **Frameworks:** Tailwind, Bootstrap,Django<br>
 🔧 **Other:** CN, OS, AWS, Shell scripting (Linux), Git, GitHub, Jenkins, Docker, Kubernetes, Puppet, Nagios,Ansible.
 
 
