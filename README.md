@@ -15,7 +15,7 @@ projects. My enthusiasm and determination make me a promising candidate for any 
 ## Technical Skills
 
 🚀 **Programming languages:** C, C++, JavaScript <br>
-💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel <br>
+💻 **Web Technologies:** HTML5, CSS, NodeJS, ReactJS, PHP, Laravel,Django <br>
 📊 **Data Management:** MySQL, MongoDB, MS Access<br>
 🖥️ **Platforms:** Windows 10, Linux<br>
 🛠️ **Frameworks:** Tailwind, Bootstrap,Django<br>
